@@ -1,0 +1,3 @@
+
+from .hanlp import HanLP
+
