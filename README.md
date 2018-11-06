@@ -1,6 +1,8 @@
 
 # HanLP
 
+!!!现在使用需要自己下载[data.zip](http://nlp.hankcs.com/download.php?file=data)文件并解压到`pyhanlps`目录下，即存在`pyhanlps/data/version.txt`文件!!!
+
 一个Java的NLP工具包HanLP的python封装
 
 [项目首页](https://github.com/hankcs/HanLP)
